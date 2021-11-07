@@ -146,4 +146,5 @@ r.Handle("GET", "/captcha/verify/:key/:val", func(c *gin.Context) {
 
 ### 硬广告
 想看更多与 Go 语言相关的资料， 欢迎关注我们的官方公众号：
+
 ![GoLang全栈](https://static.golangstack.com/%20upload/qrcode_for_gh_e41ae96a4b33_258.jpg)
